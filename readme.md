@@ -24,7 +24,9 @@
     - [Array 2D(3) print sum of indivisual row and column  of matrix](./ARRAY/Array%202D(3)%20print%20sum%20of%20indivisual%20row%20and%20column%20%20of%20matrix.c)
     - [Array 2D(4) print sum 2  of matrix](./ARRAY/Array%202D(4)%20print%20sum%202%20%20of%20matrix.c)
     - [Array 2D(5) print multiply of 2 matrix](./ARRAY/Array%202D(5)%20print%20multiply%20of%202%20matrix.c)
-    
+- FUNCTION
+    - [Function(1).c](./FUNCTION/Function(1).c) 
+    - [Function(2) Funtion declaration](./FUNCTION/Function(2)%20Funtion%20declaration.c)   
 
 
 ---
