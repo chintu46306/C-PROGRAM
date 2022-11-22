@@ -30,6 +30,16 @@
     - [Function(2)1 Funtion declaration](./FUNCTION/Function(2)1%20Funtion%20declaration.c)  
     - [Function(3) call by vale](./FUNCTION/Function(3)%20call%20by%20vale.c)
     - [Function(4) call by refrence](./FUNCTION/Function(4)%20call%20by%20refrence.c)
+    - [Function(5) no argument without return type](./FUNCTION/Function(5)%20no%20argument%20without%20return%20type.c)
+    - [Function(6) no argument with return type](./FUNCTION/Function(6)%20no%20argument%20with%20return%20type.c)
+    - [Function(7) with argument without return type](./FUNCTION/Function(7)%20with%20argument%20without%20return%20type.c)
+    - [Function(8) with argument with return type](./FUNCTION/Function(8)%20with%20argument%20with%20return%20type.c)
+    - [Function(9) passing array as an  argument to a function](./FUNCTION/Function(9)%20passing%20array%20as%20an%20%20argument%20to%20a%20function.c)
+    - [Function(10) passing string as an  argument to a function](./FUNCTION/Function(10)%20passing%20string%20as%20an%20%20argument%20to%20a%20function.c)
+    - [Function(11) return a string from a function](./FUNCTION/Function(11)%20return%20a%20string%20from%20a%20function.c)
+    - [Function(12)  function pointer](./FUNCTION/Function(12)%20%20function%20pointer.c)
+    - [Function(13)   callback function ](./FUNCTION/Function(13)%20%20%20callback%20function%20.c)
+    - [Function(14)   application function pointer ](./FUNCTION/Function(14)%20%20%20application%20function%20pointer%20.c)
 
 
 ---
