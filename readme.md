@@ -26,7 +26,10 @@
     - [Array 2D(5) print multiply of 2 matrix](./ARRAY/Array%202D(5)%20print%20multiply%20of%202%20matrix.c)
 - FUNCTION
     - [Function(1).c](./FUNCTION/Function(1).c) 
-    - [Function(2) Funtion declaration](./FUNCTION/Function(2)%20Funtion%20declaration.c)   
+    - [Function(2) Funtion declaration](./FUNCTION/Function(2)%20Funtion%20declaration.c) 
+    - [Function(2)1 Funtion declaration](./FUNCTION/Function(2)1%20Funtion%20declaration.c)  
+    - [Function(3) call by vale](./FUNCTION/Function(3)%20call%20by%20vale.c)
+    - [Function(4) call by refrence](./FUNCTION/Function(4)%20call%20by%20refrence.c)
 
 
 ---
