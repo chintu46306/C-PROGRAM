@@ -40,7 +40,20 @@
     - [Function(12)  function pointer](./FUNCTION/Function(12)%20%20function%20pointer.c)
     - [Function(13)   callback function ](./FUNCTION/Function(13)%20%20%20callback%20function%20.c)
     - [Function(14)   application function pointer ](./FUNCTION/Function(14)%20%20%20application%20function%20pointer%20.c)
-
+- POINTER
+    - [Pointer(1) (adress of) and  (indirection) operator](./POINTER/Pointer(1)%20(adress%20of)%20and%20%20(indirection)%20operator.c)
+    - [Pointer(2) pointer asssignment](./POINTER/Pointer(2)%20pointer%20asssignment.c)
+    - [Pointer(3) pointer to pointer (double pointer)](./POINTER/Pointer(3)%20pointer%20to%20pointer%20(double%20pointer).c)
+    - [Pointer(4) pointer addit. arithmatic](./POINTER/Pointer(4)%20pointer%20addit.%20arithmatic.c)
+    - [Pointer(5) pointer sub. arithmatic](./POINTER/Pointer(5)%20pointer%20sub.%20arithmatic.c)
+    - [Pointer(6) pointer increment and decrement](./POINTER/Pointer(6)%20pointer%20increment%20and%20decrement.c)
+    - [Pointer(7) pointer problem increment and decrement](./POINTER/Pointer(7)%20pointer%20problem%20increment%20and%20decrement.c)
+    - [Pointer(8) pointer problem increment and decrement](./POINTER/Pointer(8)%20pointer%20problem%20increment%20and%20decrement.c)
+    - [Pointer(9) void pointer ](./POINTER/Pointer(9)%20void%20pointer%20.c)
+    - [Pointer(10) null pointer ](./POINTER/Pointer(10)%20null%20pointer%20.c)
+    - [Pointer(11) dangling pointer ](./POINTER/Pointer(11)%20dangling%20pointer%20.c)
+    - [Pointer(12) wild pointer ](./POINTER/Pointer(12)%20wild%20pointer%20.c)
+    
 
 ---
 I made this project for my college practice.
