@@ -57,6 +57,8 @@
     - [RECURSION(1)](./RECURSION/RECURSION(1).c)
     - [RECURSION(2)](./RECURSION/RECURSION(2).c)  
     - [RECURSION(3)](./RECURSION/RECURSION(3).c)  
+- STRING
+    - [String(1) program to read and print a string](./STRING/String(1)%20program%20to%20read%20and%20print%20a%20string.c)    
 
 ---
 I made this project for my college practice.
