@@ -66,5 +66,6 @@
     - [String(5) program to find length of a string](./STRING/String(5)%20program%20to%20find%20length%20of%20a%20string.c)
     - [String(6) program to find length of a string](./STRING/String(6)%20program%20to%20find%20length%20of%20a%20string.c)
     - [String(7) program to concatenate two string](./STRING/String(7)%20program%20to%20concatenate%20two%20string.c)
+    - [String(8) program to compare  two string.c](./STRING/String(8)%20program%20to%20compare%20%20two%20string.c)
 ---
 I made this project for my college practice.
