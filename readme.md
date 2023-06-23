@@ -67,5 +67,11 @@
     - [String(6) program to find length of a string](./STRING/String(6)%20program%20to%20find%20length%20of%20a%20string.c)
     - [String(7) program to concatenate two string](./STRING/String(7)%20program%20to%20concatenate%20two%20string.c)
     - [String(8) program to compare  two string.c](./STRING/String(8)%20program%20to%20compare%20%20two%20string.c)
+    - [String(9) program to reverse a string with strrev() and without strrev() function.c](./STRING/String(9)%20program%20to%20reverse%20a%20string%20with%20strrev()%20and%20without%20strrev()%20function.c)
+    - [String(10) program to convert a string from upper case to lower case.c](./STRING/String(10)%20program%20to%20convert%20a%20string%20from%20upper%20case%20to%20lower%20case.c)
+
+- STRUCTURE
+    - [structure(1).c](./STRUCTURE/structure(1).c)
+    - [structure(2).c](./STRUCTURE/structure(2).c)
 ---
 I made this project for my college practice.
